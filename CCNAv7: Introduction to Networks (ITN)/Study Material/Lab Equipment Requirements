@@ -1,0 +1,36 @@
+Detailed equipment information, including descriptions and part numbers for the
+equipment used in previous CCNAv6 is available in the CCNA Equipment List, which is located on the Cisco NetAcad Equipment
+Information site (https://www.netacad.com/portal/resources/equipment-information).
+Baseline Equipment Bundle:
+• 2 x ISR4221/K9 Routers
+• 2 x WS-C2960+24TC-L Catalyst switches
+• 1 wireless router (generic brand) with WPA2 support
+• Ethernet patch cables
+• PCs - minimum system requirements
+o CPU: Intel Pentium 4, 2.53 GHz or equivalent •
+o OS: Microsoft Windows 7, Microsoft Windows 8.1, Microsoft Windows 10, Ubuntu 14.04 LTS, macOS High Sierra and
+Mojave •
+o RAM: 4 GB
+o Storage: 500 MB of free disk space
+o Display resolution: 1024 x 768
+o Language fonts supporting Unicode encoding (if viewing in languages other than English)
+o Latest video card drivers and operating system updates
+• Internet connection for lab and study PCs
+• Optional equipment for connecting to a WLAN
+o 1 printer or integrated printer/scanner/copier for the class to share
+o Smartphones and tablets are desirable for use with the labs
+Software:
+• Cisco IOS versions:
+o Routers: Version 15.0 or higher, IP Base feature set.
+o Switches: Version 15.0 or higher, lanbaseK9 feature set.
+• Packet Tracer v7.3
+• Open-source server software:
+o For various services and protocols, such as Telnet, SSH, HTTP, DHCP, FTP, TFTP, etc.
+• Tera Term source SSH client software for lab PCs.
+• Oracle VirtualBox, most recent version.
+• Wireshark version 2.5 or higher.
+CCNAv7: Introduction to Networks (ITN) Outline
+The first course in the CCNA curriculum introduces the architectures, models, protocols, and networking elements that connect users,
+devices, applications and data through the internet and across modern computer networks - including IP addressing and Ethernet
+fundamentals. By the end of the course, students can build simple local area networks (LANs) that integrate IP addressing schemes,
+foundational network security, and perform basic configurations for routers and switches.
