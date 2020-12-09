@@ -1,13 +1,17 @@
 # CCNA-v7
+<pre>
 
-Certified Network Associate (CCNA) v7.0
-Description
+<h1>Certified Network Associate (CCNA) v7.0</h1>
+
+<b>Description</b>
+
 This course gives you a broad range of fundamental knowledge for all IT careers. Through a combination of lecture, hands-on labs, and self-study, you will learn
 how to install, operate, configure, and verify basic IPv4 and IPv6 networks. The course covers configuring network components such as switches, routers, and
 wireless LAN controllers; managing network devices; and identifying basic security threats. The course also gives you a foundation in network programmability,
 automation, and software-defined networking.
 This course helps you prepare to take the 200-301 Cisco® Certified Network Associate (CCNA®) exam. By passing this one exam, you earn CCNA certification.
 The 200-301 CCNA exam goes live on February 24, 2020.
+
 Objectives
 The trainee will be able to:
 • Learn the knowledge and skills to install, configure, and operate a small- to medium-sized network
@@ -26,11 +30,13 @@ The job roles best suited to the material in this course are:
 Course details
 The course is comprised of three training parts as follows:
 
-
+<b>
 1. Introduction to Networks (ITN)
+</b>
 This part covers the architecture, structure, functions and components of the Internet and other computer networks. Students achieve a basic understanding of how
 networks operate and how to build simple local area networks (LAN), perform basic configurations for routers and switches, and implement Internet Protocol (IP).
 Students will be able to:
+
 • Configure switches and end devices to provide access to local and remote network resources.
 • Explain how physical and data link layer protocols support the operation of Ethernet in a switched network.
 • Configure routers to enable end-to-end connectivity between remote devices.
@@ -39,12 +45,14 @@ Students will be able to:
 • Configure a small network with security best practices.
 • Troubleshoot connectivity in a small network.
 
-
+<b>
 2. Switching, Routing, and Wireless Essentials (SRWE):
+</b>
 This part covers the architecture, components, and operations of routers and switches in small networks and introduces wireless local area networks (WLAN) and
 security concepts. Students learn how to configure and troubleshoot routers and switches for advanced functionality using security best practices and resolve
 common issues with protocols in both IPv4 and IPv6 networks.
 Students will be able to:
+
 • Configure VLANs and Inter-VLAN routing applying security best practices.
 • Troubleshoot inter-VLAN routing on Layer 3 devices.
 • Configure redundancy on a switched network using STP and EtherChannel.
@@ -55,12 +63,14 @@ Students will be able to:
 • Configure switch security to mitigate LAN attacks.
 • Configure IPv4 and IPv6 static routing on routers.
 
-
+<b>
 3. Enterprise Networking, Security, and Automation (ENSA):
+</b>
 This part describes the architecture, components, operations, and security to scale for large, complex networks, including wide area network (WAN) technologies.
 The course emphasizes network security concepts and introduces network virtualization and automation. Students learn how to configure, troubleshoot, and secure
 enterprise network devices and understand how application programming interfaces (API) and configuration management tools enable network automation.
 Students will be able to:
+
 • Configure single-area OSPFv2 in both point-to-point and multiaccess networks.
 • Explain how to mitigate threats and enhance network security using access control lists and security best practices.
 • Implement standard IPv4 ACLs to filter traffic and secure administrative access.
@@ -70,12 +80,13 @@ Students will be able to:
 • Explain how networking devices implement QoS.
 • Implement protocols to manage the network.
 • Explain how technologies such as virtualization, software defined networking, and automation affect evolving networks.
-Prerequisites
+
+<b>Prerequisites</b>
 Before taking this course, you should have:
 • Basic computer literacy
 • Basic PC operating system navigation skills
 • Basic Internet usage skills
 • Basic IP address knowledge
 There are no formal prerequisites for CCNA certification, but you should make sure to have a good understanding of the exam topics.
-
+</pre>
 
